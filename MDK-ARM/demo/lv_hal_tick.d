@@ -1,0 +1,15 @@
+demo\lv_hal_tick.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\lv_hal_tick.c
+demo\lv_hal_tick.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\lv_hal_tick.h
+demo\lv_hal_tick.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../lv_conf_internal.h
+demo\lv_hal_tick.o: D:\KeilMDK\ARM\ARMCC\Bin\..\include\stdint.h
+demo\lv_hal_tick.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../lv_conf_kconfig.h
+demo\lv_hal_tick.o: ../Middlewares/LVGL/GUI/lvgl/examples/porting/../../lv_conf.h
+demo\lv_hal_tick.o: D:\KeilMDK\ARM\ARMCC\Bin\..\include\stdbool.h
+demo\lv_hal_tick.o: D:\KeilMDK\ARM\ARMCC\Bin\..\include\stddef.h
+demo\lv_hal_tick.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+demo\lv_hal_tick.o: ../Core/Inc/FreeRTOSConfig.h
+demo\lv_hal_tick.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+demo\lv_hal_tick.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+demo\lv_hal_tick.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+demo\lv_hal_tick.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+demo\lv_hal_tick.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h

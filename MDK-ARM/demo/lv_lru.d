@@ -1,0 +1,13 @@
+demo\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_lru.c
+demo\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_lru.h
+demo\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_internal.h
+demo\lv_lru.o: D:\KeilMDK\ARM\ARMCC\Bin\..\include\stdint.h
+demo\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+demo\lv_lru.o: ../Middlewares/LVGL/GUI/lvgl/examples/porting/../../lv_conf.h
+demo\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_types.h
+demo\lv_lru.o: D:\KeilMDK\ARM\ARMCC\Bin\..\include\stddef.h
+demo\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_math.h
+demo\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_mem.h
+demo\lv_lru.o: D:\KeilMDK\ARM\ARMCC\Bin\..\include\string.h
+demo\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_assert.h
+demo\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_log.h
